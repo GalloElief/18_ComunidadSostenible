@@ -1,0 +1,133 @@
+/* Inserta tu codigo aqui */
+.lina{ /* bordes de menú */
+	border-left: 1px solid black;
+}
+nav{
+	margin-top: 5%;
+	margin-bottom: 3%;
+	margin-left: 40%;
+}
+a {
+  padding: 0px 10px;
+  text-decoration: none;
+  color:#C9C9C9 ;
+  font-size: 18px;
+  font-weight: bold;
+ 
+}
+.imguno{
+	width: 40%;
+	margin-left: 90px;
+	
+
+}
+.imgic{
+	width: 100px;
+	margin-left: 280px;
+	margin-top: 90px;	
+}
+.imgic2{
+	width: 100px;
+	margin-left: 170px;
+	margin-top: 90px;
+}
+.imgic3{
+	width: 400px;
+	margin-left: 170px;
+	margin-top: 90px;
+
+}
+.imgic4{
+	width: 400px;
+	margin-left: 205px;
+	margin-top: -40px;
+
+}
+.imgic5{
+	width: 150px;
+	margin-left: 240px;
+	margin-top: 40px;
+	border-radius: 50%;
+
+}
+
+.imgic6{
+	width: 150px;
+	margin-left: 90px;
+	margin-top: 40px;
+	
+
+}
+.imgic09{
+	width: 50px;
+	margin-left: 40px;
+	margin-top: 250px;
+}
+.footer{
+	background-color: #e9e8e6;
+	padding: 30px;
+	margin-top:30px; 
+	width: 101.5%;
+	height: 250px;
+	color: #b8b8b9;
+	font-size: 11px;
+	font-style: verdana;
+}
+
+
+
+.banner{
+	background-image: url("../img/semilla.jpg");
+	height: 400px;	
+}
+.fondogris{
+	background-color:#C9C9C9;
+	width: 102%;
+	height: 170px;
+	margin-top: 400px;
+}
+.metodo{
+	width: 106%;
+	height: 400px;
+}
+
+.verde{
+	background-image: url("../img/fondo.jpg");
+	width: 51.8%;
+	height: 400px;
+	margin-left: -28px;
+}
+
+.texv1{
+	color:white;
+	margin-top: 90px;
+}
+.texv{
+	color:white;
+	margin-top: 50px;
+}
+
+.todo{
+	margin-top: 90px;
+}
+
+.misionp{
+	padding: 50px;
+}
+.textp{
+	margin-top: 50px;
+}
+
+.pd-2{
+	padding: 2% 25%;
+}
+.fondoverdemilitar{
+	background-color: #57880E;
+	height: 800px;
+}
+.fondogris{
+	background-image: url("../img/fondo2.jpg");
+	width: 100%;
+	height: 400px;
+
+}
